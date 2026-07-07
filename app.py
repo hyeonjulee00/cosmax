@@ -212,6 +212,7 @@ HTML_CONTENT = r"""
     line-height: 1.6;
     color: var(--text-muted);
     max-width: 46ch;
+    word-break: keep-all;
   }
 
   .partner-logo {
